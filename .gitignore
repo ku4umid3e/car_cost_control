@@ -132,3 +132,8 @@ dmypy.json
 #Docker
 docker-compose.yaml
 pgdata/
+.env.*
+!.env.example
+.venv/
+*.pyc
+staticfiles/
